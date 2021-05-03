@@ -19,4 +19,9 @@ final class BBDecoder
         return html($text);
     }
     
+    public function escapeBB($text)
+    {
+        return $text; # @todo implement
+    }
+    
 }
