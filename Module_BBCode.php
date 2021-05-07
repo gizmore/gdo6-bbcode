@@ -7,6 +7,7 @@ use GDO\User\GDO_User;
 
 /**
  * BBCode message provider.
+ * @link https://github.com/thunderer/Shortcode
  * @author livinskull
  * @version 6.10.1
  * @since 6.10.1
