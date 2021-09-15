@@ -10,7 +10,7 @@ namespace GDO\BBCode;
 final class BBDecoder
 {
     /**
-     * @todo implement
+     * @TODO implement
      * @param string $text
      * @return string
      */
@@ -21,7 +21,7 @@ final class BBDecoder
     
     public function escapeBB($text)
     {
-        return $text; # @todo implement
+        return $text; # @TODO implement
     }
     
 }
